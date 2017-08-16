@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "860316021340",
+    "firebase_url": "https://chatfirebase-85b40.firebaseio.com",
+    "project_id": "chatfirebase-85b40",
+    "storage_bucket": "chatfirebase-85b40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860316021340:android:f296c2c72b87c753",
+        "android_client_info": {
+          "package_name": "com.androidadvance.simplechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860316021340-5jirrf95qaue1cnvbshfn1dnk0bp9elm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androidadvance.simplechat",
+            "certificate_hash": "9dacaad039319defab17f1bf2791424c8e4375d0"
+          }
+        },
+        {
+          "client_id": "860316021340-crutsppc27t41bfpqpueg886hv5g267f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCP01JZYSay2cg9Y7e0vl9Bpch6-n91GI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860316021340-crutsppc27t41bfpqpueg886hv5g267f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860316021340:android:5f239fb446dae025",
+        "android_client_info": {
+          "package_name": "com.jaydevelopment.popkovanton.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860316021340-ghbqbvp29qr1pn5ok41256r3l0v7has1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaydevelopment.popkovanton.chat",
+            "certificate_hash": "9dacaad039319defab17f1bf2791424c8e4375d0"
+          }
+        },
+        {
+          "client_id": "860316021340-crutsppc27t41bfpqpueg886hv5g267f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCP01JZYSay2cg9Y7e0vl9Bpch6-n91GI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860316021340-crutsppc27t41bfpqpueg886hv5g267f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
